@@ -1,0 +1,3841 @@
+{
+    "ErrorCode": {
+        "Id": 200,
+        "Description": "Success - OK",
+        "Status": "Pins-Via-Cache:false;Sidebar-Items-Via-Cache:0;",
+        "ProductName": "! Push to PR-Stage - Realtor API (Maintenance)^29069 [Tuesday, September 1, 2020 2:44:04 PM]",
+        "Version": "1.0.7549.26599"
+    },
+    "Paging": {
+        "RecordsPerPage": 20,
+        "CurrentPage": 1,
+        "TotalRecords": 136,
+        "MaxRecords": 500,
+        "TotalPages": 7,
+        "RecordsShowing": 136,
+        "Pins": 84
+    },
+    "Results": [
+        {
+            "Id": "22341425",
+            "MlsNumber": "851544",
+            "PublicRemarks": "Greater Victoria's (Colwood Corners) best condo buy! Own your own ground floor 1 bedroom condo with a bonus office/storage room for less than $200,000! Great location near Royal Roads University & \u00c9cole John Stubbs school plus the Juan de Fuca Rec Centre. Tons of shopping and restaurants nearby. The scenic Esquimalt lagoon and migratory bird sanctuary and ocean beach all within a short distance. Own for less than rent or acquire this for an investment property as rentals are permitted- kids and pets too! Keep it as a rental with existing long term happy tenant or update it to your liking. (23192969)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "599 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 2060748,
+                    "Name": "Catherine Larson",
+                    "Organization": {
+                        "OrganizationID": 53052,
+                        "Name": "Royal LePage Coast Capital - Chatterton",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637353199430000000/lowres/1006587.jpg",
+                        "Address": {
+                            "AddressText": "110-4460 Chatterton Way|Victoria, British Columbia V8X5J2",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "477-5353",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "461-5353",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "477-3328",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609990"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.rlpvictoria.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53052/royal-lepage-coast-capital-chatterton-110-4460-chatterton-way-victoria-british-columbia-v8x5j2",
+                        "PhotoLastupdate": "2020-09-10 7:32:23 AM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "883-7018",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453765972"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636749520600000000/lowres/1335903.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Catherine",
+                    "LastName": "Larson",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/2060748/catherine-larson-110-4460-chatterton-way-victoria-british-columbia-v8x5j2",
+                    "AgentPhotoLastUpdated": "2018-10-12 14:41:00"
+                },
+                {
+                    "IndividualID": 2061580,
+                    "Name": "Michael Lambe",
+                    "Organization": {
+                        "OrganizationID": 53052,
+                        "Name": "Royal LePage Coast Capital - Chatterton",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637353199430000000/lowres/1006587.jpg",
+                        "Address": {
+                            "AddressText": "110-4460 Chatterton Way|Victoria, British Columbia V8X5J2",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "477-5353",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "461-5353",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "477-3328",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609990"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.rlpvictoria.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53052/royal-lepage-coast-capital-chatterton-110-4460-chatterton-way-victoria-british-columbia-v8x5j2",
+                        "PhotoLastupdate": "2020-09-10 7:32:23 AM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "818-1838",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453765960"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636749773200000000/lowres/1336699.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Michael",
+                    "LastName": "Lambe",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/2061580/michael-lambe-110-4460-chatterton-way-victoria-british-columbia-v8x5j2",
+                    "AgentPhotoLastUpdated": "2018-10-12 21:42:00"
+                }
+            ],
+            "Property": {
+                "Price": "$195,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "103 350 Belmont Rd|Colwood, British Columbia V9C1B1",
+                    "Longitude": "-123.46186706",
+                    "Latitude": "48.43733971",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637353199438070000/reb3/highres/4/851544_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637353199438070000/reb3/medres/4/851544_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637353199438070000/reb3/lowres/4/851544_1.jpg",
+                        "LastUpdated": "2020-09-10 7:32:23 AM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$195,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "OpenHouse": [
+                {
+                    "StartTime": "Sep 12/20 - 11:00 AM To 1:00 PM",
+                    "StartDateTime": "12/09/2020 11:00:00 AM",
+                    "EndDateTime": "12/09/2020 1:00:00 PM",
+                    "FormattedDateTime": "Sep 12/20 - 11:00 AM To 1:00 PM",
+                    "Comments": "Deerwood Place - Investors, First Time Buyers & Downsizers -Come see this one bedroom with bonus den/office rm, ground floor suite. Close to Royal Roads, Colwood Corners and shops, easy access to buse",
+                    "EventTypeID": "1"
+                },
+                {
+                    "StartTime": "Sep 13/20 - 11:00 AM To 1:00 PM",
+                    "StartDateTime": "13/09/2020 11:00:00 AM",
+                    "EndDateTime": "13/09/2020 1:00:00 PM",
+                    "FormattedDateTime": "Sep 13/20 - 11:00 AM To 1:00 PM",
+                    "Comments": "Deerwood Place - Investors, First Time Buyers & Downsizers -Come see this one bedroom with bonus den/office rm, ground floor suite. Close to Royal Roads, Colwood Corners and shops, easy access to buse",
+                    "EventTypeID": "1"
+                }
+            ],
+            "Business": {},
+            "Land": {
+                "SizeTotal": "599 sqft"
+            },
+            "PostalCode": "V9C1B1",
+            "RelativeDetailsURL": "/real-estate/22341425/103-350-belmont-rd-colwood-colwood-corners",
+            "StatusId": "1",
+            "OpenHouseInsertDateUTC": "2020-09-10 11:35:05 AM",
+            "HasOpenHouseUpdate": true,
+            "PhotoChangeDateUTC": "2020-09-10 11:32:23 AM",
+            "HasNewImageUpdate": true,
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22341425/103-350-belmont-rd-colwood-colwood-corners",
+            "RelativeURLFr": "/immobilier/22341425/103-350-belmont-rd-colwood",
+            "ListingTimeZone": "Pacific Standard Time",
+            "ListingBoundary": "America/Vancouver",
+            "ListingGMT": "-08:00:00"
+        },
+        {
+            "Id": "22327568",
+            "MlsNumber": "855068",
+            "PublicRemarks": "1 bedroom ground floor unit. Shared Laundry room on the main floor. Unrestricted rentals. No age limit. 2 cats ok but no dogs. Great location close to the Mayfair shopping center, Thriftys, Quadra Village. Easy bus route to downtown or University. Improvements being done this year include the exterior of the building being repainted, and the main rear parking lot has been paved. (23182636)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "733 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1437115,
+                    "Name": "Terry Kurash",
+                    "Organization": {
+                        "OrganizationID": 53078,
+                        "Name": "RE/MAX Camosun",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637349882220000000/lowres/remax3d.gif",
+                        "Address": {
+                            "AddressText": "4440 Chatterton Way|Victoria, British Columbia V8X5J2",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "744-3301",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "663-2121",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "744-3904",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "455194808"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.remax-camosun-victoria-bc.com/",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53078/remax-camosun-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                        "PhotoLastupdate": "2020-09-06 11:23:42 AM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "888-1187",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.terrykurash.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453765443"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS637212663600000000/lowres/1030697.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Terry",
+                    "LastName": "Kurash",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1437115/terry-kurash-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                    "AgentPhotoLastUpdated": "2020-03-31 15:46:00"
+                }
+            ],
+            "Property": {
+                "Price": "$229,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "104 3235 Quadra St|Saanich, British Columbia V8X1G4",
+                    "Longitude": "-123.361237",
+                    "Latitude": "48.449932",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637349875335730000/reb3/highres/8/855068_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637349875335730000/reb3/medres/8/855068_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637349875335730000/reb3/lowres/8/855068_1.jpg",
+                        "LastUpdated": "2020-09-06 11:12:13 AM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$229,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "733 sqft"
+            },
+            "PostalCode": "V8X1G4",
+            "RelativeDetailsURL": "/real-estate/22327568/104-3235-quadra-st-saanich-maplewood",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-09-06 3:12:13 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22327568/104-3235-quadra-st-saanich-maplewood",
+            "RelativeURLFr": "/immobilier/22327568/104-3235-quadra-st-saanich"
+        },
+        {
+            "Id": "21856384",
+            "MlsNumber": "839562",
+            "PublicRemarks": "ROSE BANK GARDENS: VICTORIA'S PREMIER DOWNSIZING OPPORTUNITY! R.B.G.s is a 55+ independent-living seniors condo offering one meal/day, cleaning/linen services, & 24 staffing hour staff presence (R.B.G.s is NOT a retirement home). Suite 101 is a great value at 229K! (A 2nd floor 2 bed suite recently sold privately for 325K!).101 is ground level suite with 9' ceilings, a 10'x10' den/office/2nd bedroom, its own sliding glass level-entry patio door, full kitchen, & an in-suite storage room.  One may own a small dog on this level! The strata offers a shared lounge/dining room, guest suite, 24 hour staffing / security, coin-free laundry room, activity room & First Alert response. Note: the monthly service fees for housekeeping and meals are in addition to the monthly assessment amt. in the listing; see the 'Monthly Fees Total & Breakdown' in Supplements. R.B.G.s is located on quiet, beautiful, landscaped grounds just a short walk to a public library, grocery stores, & all amenities. (22695946)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "840 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1460820,
+                    "Name": "Rosemarie Colterman",
+                    "Organization": {
+                        "OrganizationID": 53073,
+                        "Name": "Royal LePage Coast Capital - Oak Bay",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345780530000000/lowres/1006608.jpg",
+                        "Address": {
+                            "AddressText": "2541 Estevan Avenue|V8R 2S6|Victoria, British Columbia V8R2S6",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "592-4422",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "263-4753",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "592-6600",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609922"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.rlpvictoria.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53073/royal-lepage-coast-capital-oak-bay-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                        "PhotoLastupdate": "2020-09-01 5:27:33 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "592-4422",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Toll Free",
+                            "CountryCode": "1",
+                            "PhoneNumber": "263-4753",
+                            "AreaCode": "800",
+                            "PhoneTypeId": "5"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.homewardbound.team",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453770017"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636717702000000000/lowres/1123980.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Rosemarie",
+                    "LastName": "Colterman",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1460820/rosemarie-colterman-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                    "AgentPhotoLastUpdated": "2018-09-05 18:50:00"
+                },
+                {
+                    "IndividualID": 1980259,
+                    "Name": "Tom Oak",
+                    "Organization": {
+                        "OrganizationID": 53073,
+                        "Name": "Royal LePage Coast Capital - Oak Bay",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345780530000000/lowres/1006608.jpg",
+                        "Address": {
+                            "AddressText": "2541 Estevan Avenue|V8R 2S6|Victoria, British Columbia V8R2S6",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "592-4422",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "263-4753",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "592-6600",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609922"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.rlpvictoria.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53073/royal-lepage-coast-capital-oak-bay-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                        "PhotoLastupdate": "2020-09-01 5:27:33 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "858-1502",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://homewardbound.team",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453767650"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636717702000000000/lowres/1266035.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Tom",
+                    "LastName": "Oak",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1980259/tom-oak-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                    "AgentPhotoLastUpdated": "2018-09-05 18:50:00"
+                }
+            ],
+            "Property": {
+                "Price": "$229,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "101 1485 Garnet Rd|Saanich, British Columbia V8P5T5",
+                    "Longitude": "-123.338294",
+                    "Latitude": "48.46706",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637316409951400000/reb3/highres/2/839562_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637316409951400000/reb3/medres/2/839562_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637316409951400000/reb3/lowres/2/839562_1.jpg",
+                        "LastUpdated": "2020-07-29 5:36:35 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Parking Space(s)"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$229,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "921 sqft"
+            },
+            "AlternateURL": {
+                "VideoLink": "https://www.youtube.com/watch?v=yAyZe67_GPg"
+            },
+            "PostalCode": "V8P5T5",
+            "RelativeDetailsURL": "/real-estate/21856384/101-1485-garnet-rd-saanich-cedar-hill",
+            "StatusId": "1",
+            "PriceChangeDateUTC": "2020-07-30 9:35:41 PM",
+            "PhotoChangeDateUTC": "2020-07-29 9:36:37 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/21856384/101-1485-garnet-rd-saanich-cedar-hill",
+            "RelativeURLFr": "/immobilier/21856384/101-1485-garnet-rd-saanich"
+        },
+        {
+            "Id": "22089789",
+            "MlsNumber": "839181",
+            "PublicRemarks": "ROSE BANK GARDENS: VICTORIA'S PREMIER DOWNSIZING OPPORTUNITY! This 55+ independent-living seniors condominium complex offers one meal/day at 5:30 pm, cleaning/linen services & 24 hour staff presence (R.B.G.s is NOT a retirement home). Suite 103 is a ground level suite with 9' ceilings, its own lockable outside access door, private patio, windows on 2 sides, in-suite full kitchen with double sink, views N & E onto central gardens, and an in-suite storage room.  Small dogs are welcome on the ground level! The strata offers a shared lounge/dining room, guest suite, 24 hour staffing / security, coin-free laundry room, activity room & First Alert response. Note: the monthly service fees for housekeeping and meals are in addition to the monthly assessment amt. in the listing; see the 'Monthly Fees Total & Breakdown' in Supplements. R.B.G.s is located on quiet, beautiful, landscaped grounds just a short walk to a public library, grocery stores, & all amenities. (22928970)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "2",
+                "SizeInterior": "828 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1460820,
+                    "Name": "Rosemarie Colterman",
+                    "Organization": {
+                        "OrganizationID": 53073,
+                        "Name": "Royal LePage Coast Capital - Oak Bay",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345780680000000/lowres/1006608.jpg",
+                        "Address": {
+                            "AddressText": "2541 Estevan Avenue|V8R 2S6|Victoria, British Columbia V8R2S6",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "592-4422",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "263-4753",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "592-6600",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609922"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.rlpvictoria.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53073/royal-lepage-coast-capital-oak-bay-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                        "PhotoLastupdate": "2020-09-01 5:27:48 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "592-4422",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Toll Free",
+                            "CountryCode": "1",
+                            "PhoneNumber": "263-4753",
+                            "AreaCode": "800",
+                            "PhoneTypeId": "5"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.homewardbound.team",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453770017"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636717702000000000/lowres/1123980.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Rosemarie",
+                    "LastName": "Colterman",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1460820/rosemarie-colterman-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                    "AgentPhotoLastUpdated": "2018-09-05 18:50:00"
+                },
+                {
+                    "IndividualID": 1980259,
+                    "Name": "Tom Oak",
+                    "Organization": {
+                        "OrganizationID": 53073,
+                        "Name": "Royal LePage Coast Capital - Oak Bay",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345780680000000/lowres/1006608.jpg",
+                        "Address": {
+                            "AddressText": "2541 Estevan Avenue|V8R 2S6|Victoria, British Columbia V8R2S6",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "592-4422",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "263-4753",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "592-6600",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609922"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.rlpvictoria.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53073/royal-lepage-coast-capital-oak-bay-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                        "PhotoLastupdate": "2020-09-01 5:27:48 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "858-1502",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://homewardbound.team",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453767650"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636717702000000000/lowres/1266035.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Tom",
+                    "LastName": "Oak",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1980259/tom-oak-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                    "AgentPhotoLastUpdated": "2018-09-05 18:50:00"
+                }
+            ],
+            "Property": {
+                "Price": "$239,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "103 1485 Garnet Rd|Saanich, British Columbia V8P5K9",
+                    "Longitude": "-123.33838",
+                    "Latitude": "48.467045",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637315292671600000/reb3/highres/1/839181_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637315292671600000/reb3/medres/1/839181_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637315292671600000/reb3/lowres/1/839181_1.jpg",
+                        "LastUpdated": "2020-07-28 10:34:27 AM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Parking Space(s)"
+                    }
+                ],
+                "ParkingSpaceTotal": "1",
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$239,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "753 sqft"
+            },
+            "AlternateURL": {
+                "VideoLink": "https://www.youtube.com/watch?v=yAyZe67_GPg"
+            },
+            "PostalCode": "V8P5K9",
+            "RelativeDetailsURL": "/real-estate/22089789/103-1485-garnet-rd-saanich-cedar-hill",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-07-28 2:34:27 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22089789/103-1485-garnet-rd-saanich-cedar-hill",
+            "RelativeURLFr": "/immobilier/22089789/103-1485-garnet-rd-saanich"
+        },
+        {
+            "Id": "22190887",
+            "MlsNumber": "850938",
+            "PublicRemarks": "Bright and Spacious, Open concept living in this Unique concept building where if you're 55 plus can enjoy a balance of independent living with care and safety. This one bedroom condo has new engineered oak hardwood flooring and freshly painted in a neutral tone to go with everything. This unit features open kitchen, living and dining area, large master bedroom with closet organizer and storage room in suite. Nice walk in shower installed. Patio doors from the living room to balcony overlooking the gardens and beautifully treed green space.This 55+ complex offers security of 24 hr staff, the option of a daily 4 course meal, first alert & housekeeping, laundry on every floor, hobby room & more. Just steps to buses, University Heights Shopping and many amenities. Great staff and activities make this a great place to call home. Beautifully landscaped grounds and great walking paths. Small pets welcome! (23041825)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "700 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1502728,
+                    "Name": "Laurie Appleton",
+                    "Organization": {
+                        "OrganizationID": 53151,
+                        "Name": "Pemberton Holmes - Cloverdale",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637348946340000000/lowres/53151.jpg",
+                        "Address": {
+                            "AddressText": "150-805 Cloverdale Ave|Victoria, British Columbia V8X2S9",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "384-8124",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "665-5303",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "380-6355",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609584"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.pembertonholmes.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53151/pemberton-holmes-cloverdale-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9",
+                        "PhotoLastupdate": "2020-09-05 9:23:54 AM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "857-1774",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.laurieappleton.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "454977826"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individuals/lowres/1136480.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Laurie",
+                    "LastName": "Appleton",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1502728/laurie-appleton-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9"
+                }
+            ],
+            "Property": {
+                "Price": "$239,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "212 1485 Garnet Rd|Saanich, British Columbia V8P5T5",
+                    "Longitude": "-123.337207",
+                    "Latitude": "48.467667",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637321812473900000/reb3/highres/8/850938_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637321812473900000/reb3/medres/8/850938_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637321812473900000/reb3/lowres/8/850938_1.jpg",
+                        "LastUpdated": "2020-08-04 11:40:47 PM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$239,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "700 sqft"
+            },
+            "PostalCode": "V8P5T5",
+            "RelativeDetailsURL": "/real-estate/22190887/212-1485-garnet-rd-saanich-cedar-hill",
+            "StatusId": "1",
+            "OpenHouseInsertDateUTC": "2020-08-28 2:21:03 PM",
+            "PriceChangeDateUTC": "2020-09-01 10:31:37 PM",
+            "PhotoChangeDateUTC": "2020-08-05 3:40:49 AM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22190887/212-1485-garnet-rd-saanich-cedar-hill",
+            "RelativeURLFr": "/immobilier/22190887/212-1485-garnet-rd-saanich",
+            "ListingTimeZone": "Pacific Standard Time",
+            "ListingBoundary": "America/Vancouver",
+            "ListingGMT": "-08:00:00"
+        },
+        {
+            "Id": "22224954",
+            "MlsNumber": "851724",
+            "PublicRemarks": "Beautifully renovated and centrally located 1 bedroom condo in Saanich East.  On the quiet side of the building this ground floor unit has been tastefully updated with newer kitchen cabinets, countertops, flooring, paint, baseboards, bathroom vanity, new fixtures and alarm system. Well located in the popular Maplewood neighbourhood with easy access to terrific amenities including Mayfair mall, Thrifty\u0092s, Quadra Village, easy bus routes to downtown Victoria or UVIC and Camosun. The building has newer windows, painting of interior and newly paved parking lot. This is a great investment opportunity or a great place to call home. No rental or age restriction and storage in unit.  A must see in today\u0092s market. (23076678)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "635 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1890127,
+                    "Name": "Grant Walker",
+                    "Organization": {
+                        "OrganizationID": 53078,
+                        "Name": "RE/MAX Camosun",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345772680000000/lowres/remax3d.gif",
+                        "Address": {
+                            "AddressText": "4440 Chatterton Way|Victoria, British Columbia V8X5J2",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "744-3301",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "663-2121",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "744-3904",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "455194808"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.remax-camosun-victoria-bc.com/",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53078/remax-camosun-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                        "PhotoLastupdate": "2020-09-01 5:14:28 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "661-9255",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://grantwalker.ca/",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453768565"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS637313712600000000/lowres/1211156.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Grant",
+                    "LastName": "Walker",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1890127/grant-walker-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                    "AgentPhotoLastUpdated": "2020-07-26 14:41:00"
+                }
+            ],
+            "Property": {
+                "Price": "$249,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "105 3235 Quadra St|Saanich, British Columbia V8X1G4",
+                    "Longitude": "-123.361243",
+                    "Latitude": "48.450108",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637328403033800000/reb3/highres/4/851724_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637328403033800000/reb3/medres/4/851724_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637328403033800000/reb3/lowres/4/851724_1.jpg",
+                        "LastUpdated": "2020-08-12 2:45:03 PM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$249,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "669 sqft"
+            },
+            "PostalCode": "V8X1G4",
+            "RelativeDetailsURL": "/real-estate/22224954/105-3235-quadra-st-saanich-maplewood",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-08-12 6:45:03 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22224954/105-3235-quadra-st-saanich-maplewood",
+            "RelativeURLFr": "/immobilier/22224954/105-3235-quadra-st-saanich"
+        },
+        {
+            "Id": "22208700",
+            "MlsNumber": "851302",
+            "PublicRemarks": "Located on the quiet side of the building with southwest exposure, this refreshed and spacious one bedroom home offers blond laminate flooring, an upgraded kitchen with newer glass tile back splash, a large bedroom (easily accommodates a king-sized bed) and good sized in-suite storage.  A well managed complex with an indoor pool and gym facilities.  Some rentals are allowed and your furry friends are welcome.  Check out this affordable entry into the very active Victoria real estate market. (23060002)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "694 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1534989,
+                    "Name": "Terry Moore",
+                    "Organization": {
+                        "OrganizationID": 53126,
+                        "Name": "DFH Real Estate Ltd.",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345773410000000/lowres/53126.jpg",
+                        "Address": {
+                            "AddressText": "3914 Shelbourne St|Victoria, British Columbia V8P4J1",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "477-7291",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "668-2272",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "477-3161",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609801"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.dfh.ca",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53126/dfh-real-estate-ltd-3914-shelbourne-st-victoria-british-columbia-v8p4j1",
+                        "PhotoLastupdate": "2020-09-01 5:15:41 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "477-7291",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.frieseandmoore.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453770469"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636810000600000000/lowres/1144121.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Terry",
+                    "LastName": "Moore",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1534989/terry-moore-3914-shelbourne-st-victoria-british-columbia-v8p4j1",
+                    "AgentPhotoLastUpdated": "2018-12-21 14:41:00"
+                },
+                {
+                    "IndividualID": 1436885,
+                    "Name": "Dorothee Friese",
+                    "Organization": {
+                        "OrganizationID": 53126,
+                        "Name": "DFH Real Estate Ltd.",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345773410000000/lowres/53126.jpg",
+                        "Address": {
+                            "AddressText": "3914 Shelbourne St|Victoria, British Columbia V8P4J1",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "477-7291",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "668-2272",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "477-3161",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609801"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.dfh.ca",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53126/dfh-real-estate-ltd-3914-shelbourne-st-victoria-british-columbia-v8p4j1",
+                        "PhotoLastupdate": "2020-09-01 5:15:41 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "477-7291",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.frieseandmoore.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453770492"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636810000600000000/lowres/1099173.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Dorothee",
+                    "LastName": "Friese",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1436885/dorothee-friese-3914-shelbourne-st-victoria-british-columbia-v8p4j1",
+                    "AgentPhotoLastUpdated": "2018-12-21 14:41:00"
+                }
+            ],
+            "Property": {
+                "Price": "$249,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "119 3225 Eldon Pl|Saanich, British Columbia V8Z6A7",
+                    "Longitude": "-123.38131347",
+                    "Latitude": "48.44853503",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637324850363800000/reb3/highres/2/851302_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637324850363800000/reb3/medres/2/851302_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637324850363800000/reb3/lowres/2/851302_1.jpg",
+                        "LastUpdated": "2020-08-08 12:03:56 PM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Residential",
+                "ConvertedPrice": "$249,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "750 sqft"
+            },
+            "PostalCode": "V8Z6A7",
+            "RelativeDetailsURL": "/real-estate/22208700/119-3225-eldon-pl-saanich-rudd-park",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-08-08 4:03:56 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22208700/119-3225-eldon-pl-saanich-rudd-park",
+            "RelativeURLFr": "/immobilier/22208700/119-3225-eldon-pl-saanich"
+        },
+        {
+            "Id": "22024249",
+            "MlsNumber": "842935",
+            "PublicRemarks": "Great investment opportunity in this well maintained RENTAL ONLY Building.     The \u0093Explorer\u0094 is a Rental Only Building and CANNOT BE OWNER OCCUPIED.   This is a bright, spacious one bedroom condo with in suite laundry, nice size balcony, secured underground parking spot, and storage.  Fantastic location in the building, parking is below unit so no need to tippy toe.   Beautiful landscaping. Excellent location, that is ideal for tenants,  close to revitalized Quadra Village and many restaurants. Located on major bus routes, offering easy access to Camosun College, UVIC, downtown and malls.   No age restrictions and pets are allowed.   Fantastic long term Tenant is currently paying 984.00 per month plus utilities.  Very well maintained and reputable building. (22867184)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "727 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1436671,
+                    "Name": "Roxanne Brass",
+                    "Organization": {
+                        "OrganizationID": 53078,
+                        "Name": "RE/MAX Camosun",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345778360000000/lowres/remax3d.gif",
+                        "Address": {
+                            "AddressText": "4440 Chatterton Way|Victoria, British Columbia V8X5J2",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "744-3301",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "663-2121",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "744-3904",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "455194808"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.remax-camosun-victoria-bc.com/",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53078/remax-camosun-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                        "PhotoLastupdate": "2020-09-01 5:23:56 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "744-3301",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.roxannebrass.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453770232"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636178548600000000/lowres/1099264.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Roxanne",
+                    "LastName": "Brass",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1436671/roxanne-brass-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                    "AgentPhotoLastUpdated": "2016-12-20 18:21:00"
+                }
+            ],
+            "Property": {
+                "Price": "$249,900",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "204 2880 Quadra St|Victoria, British Columbia V8T4G1",
+                    "Longitude": "-123.3598",
+                    "Latitude": "48.441452",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637340472626870000/reb3/highres/5/842935_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637340472626870000/reb3/medres/5/842935_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637340472626870000/reb3/lowres/5/842935_1.jpg",
+                        "LastUpdated": "2020-08-26 2:01:02 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Underground"
+                    }
+                ],
+                "ParkingSpaceTotal": "1",
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Residential",
+                "ConvertedPrice": "$249,900 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "677 sqft"
+            },
+            "AlternateURL": {
+                "DetailsLink": "https://www.uplist.ca/h/RoxanneBrass-204-2880-Quadra-St",
+                "PhotoLink": "https://www.uplist.ca/h/RoxanneBrass-204-2880-Quadra-St"
+            },
+            "PostalCode": "V8T4G1",
+            "RelativeDetailsURL": "/real-estate/22024249/204-2880-quadra-st-victoria-hillside",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-08-26 6:01:06 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22024249/204-2880-quadra-st-victoria-hillside",
+            "RelativeURLFr": "/immobilier/22024249/204-2880-quadra-st-victoria"
+        },
+        {
+            "Id": "22162924",
+            "MlsNumber": "850251",
+            "PublicRemarks": "Ideal property for investors or first time buyers! Located in Victoria downtown core, within walking distance to restaurants, shopping, entertainment and all other amenities city has to offer.  This  bachelor unit offers in-suite laundry, Murphy bed and has been tastefully updated over the years, featuring laminate flooring throughout, modern bathroom, updated kitchen with quartz counter-tops and stainless steel appliances. Well managed building with low strata fees has been fully remediated in 2005 and has had a new roof installed in 2010. This complex has no rental or age restrictions and allows pets and barbecues. The building also features underground secure parking (strata rented at $65/month with short wait list), storage locker and bike storage. Don't miss this opportunity, call today! (23013175)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "0",
+                "SizeInterior": "451 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1999425,
+                    "Name": "Vladimir Music",
+                    "Organization": {
+                        "OrganizationID": 53151,
+                        "Name": "Pemberton Holmes - Cloverdale",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345774410000000/lowres/53151.jpg",
+                        "Address": {
+                            "AddressText": "150-805 Cloverdale Ave|Victoria, British Columbia V8X2S9",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "384-8124",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "665-5303",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "380-6355",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609584"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.pembertonholmes.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53151/pemberton-holmes-cloverdale-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9",
+                        "PhotoLastupdate": "2020-09-01 5:17:21 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "818-2449",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Fax",
+                            "PhoneNumber": "380-6355",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "4"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.vladimirmusic.ca",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453767350"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636123355200000000/lowres/1281849.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Vladimir",
+                    "LastName": "Music",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1999425/vladimir-music-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9",
+                    "AgentPhotoLastUpdated": "2016-10-17 21:12:00"
+                }
+            ],
+            "Property": {
+                "Price": "$249,900",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "317 827 North Park St|Victoria, British Columbia V8W3Y3",
+                    "Longitude": "-123.36081863",
+                    "Latitude": "48.42991025",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637316416963100000/reb3/highres/1/850251_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637316416963100000/reb3/medres/1/850251_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637316416963100000/reb3/lowres/1/850251_1.jpg",
+                        "LastUpdated": "2020-07-29 5:48:16 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Underground"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$249,900 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "400 sqft",
+                "AccessType": "Road access"
+            },
+            "AlternateURL": {
+                "VideoLink": "https://my.matterport.com/show/?m=pf2SKRAhwEW"
+            },
+            "PostalCode": "V8W3Y3",
+            "RelativeDetailsURL": "/real-estate/22162924/317-827-north-park-st-victoria-downtown",
+            "StatusId": "1",
+            "PriceChangeDateUTC": "2020-08-28 4:05:47 PM",
+            "PhotoChangeDateUTC": "2020-07-29 9:48:18 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22162924/317-827-north-park-st-victoria-downtown",
+            "RelativeURLFr": "/immobilier/22162924/317-827-north-park-st-victoria"
+        },
+        {
+            "Id": "22336688",
+            "MlsNumber": "855243",
+            "PublicRemarks": "Wonderfully updated turn key condo!  Bright and spacious, with updated flooring and new interior paint. Located at the back, quiet side of the building with southwest views. Recent building updates  include balcony railings, windows and sliding doors, decks and roof. Convenient location to shopping, buses, West Bay walk way and more.  Large storage locker included conveniently located on each floor.  Strata fee includes heat and hot water!  Don't miss out, this one won't last! (23191931)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "770 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1816011,
+                    "Name": "David Silletta",
+                    "Organization": {
+                        "OrganizationID": 53078,
+                        "Name": "RE/MAX Camosun",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637352737680000000/lowres/remax3d.gif",
+                        "Address": {
+                            "AddressText": "4440 Chatterton Way|Victoria, British Columbia V8X5J2",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "744-3301",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "663-2121",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "744-3904",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "455194808"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.remax-camosun-victoria-bc.com/",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53078/remax-camosun-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                        "PhotoLastupdate": "2020-09-09 6:42:48 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "888-6924",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Fax",
+                            "PhoneNumber": "744-3904",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "4"
+                        },
+                        {
+                            "PhoneType": "Toll Free",
+                            "PhoneNumber": "663-2121",
+                            "AreaCode": "800",
+                            "PhoneTypeId": "5"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.davidsilletta.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453768793"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS637262701800000000/lowres/1192686.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "David",
+                    "LastName": "Silletta",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1816011/david-silletta-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                    "AgentPhotoLastUpdated": "2020-05-28 13:43:00"
+                }
+            ],
+            "Property": {
+                "Price": "$250,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "207 848 Esquimalt Rd|Esquimalt, British Columbia V9A6W9",
+                    "Longitude": "-123.3981",
+                    "Latitude": "48.43162",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637352467365330000/reb3/highres/3/855243_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637352467365330000/reb3/medres/3/855243_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637352467365330000/reb3/lowres/3/855243_1.jpg",
+                        "LastUpdated": "2020-09-09 11:12:16 AM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$250,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "770 sqft"
+            },
+            "AlternateURL": {
+                "VideoLink": "http://app.standardres.ca/207-848-esquimalt-rd/"
+            },
+            "PostalCode": "V9A6W9",
+            "RelativeDetailsURL": "/real-estate/22336688/207-848-esquimalt-rd-esquimalt-old-esquimalt",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-09-09 3:12:16 PM",
+            "HasNewImageUpdate": true,
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22336688/207-848-esquimalt-rd-esquimalt-old-esquimalt",
+            "RelativeURLFr": "/immobilier/22336688/207-848-esquimalt-rd-esquimalt"
+        },
+        {
+            "Id": "22117340",
+            "MlsNumber": "844985",
+            "PublicRemarks": "New Price! First Time Buyers and Downsizers! This studio/one bedroom condo is in a Fantastic Central Location and is sure to please with it's lovely private outlook and nice upgrades which include, Blanco sink and faucet, towel warmer, light fixtures and an original double \"\"Murphy Wallbed\"\" with side cupboards and pull out desk. Easy commute to the University, malls and major arteries. Short walk to Galloping Goose Trail, Swan Lake, groceries, banking, London Drugs, restaurants, coffee and more. This unique complex has something for everyone; indoor pool, sauna, hot tub, gym, tennis courts, billiards room, hobby room and lounges. Bonus - bike storage on the same level and storage locker across the hall from your front door! Heat and hot water included in monthly fees! (22962325)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "595 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1684428,
+                    "Name": "Cheryl MacMillan",
+                    "Organization": {
+                        "OrganizationID": 53151,
+                        "Name": "Pemberton Holmes - Cloverdale",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345775630000000/lowres/53151.jpg",
+                        "Address": {
+                            "AddressText": "150-805 Cloverdale Ave|Victoria, British Columbia V8X2S9",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "384-8124",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "665-5303",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "380-6355",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609584"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.pembertonholmes.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53151/pemberton-holmes-cloverdale-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9",
+                        "PhotoLastupdate": "2020-09-01 5:19:23 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "384-8124",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453769172"
+                        }
+                    ],
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Cheryl",
+                    "LastName": "MacMillan",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1684428/cheryl-macmillan-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9"
+                },
+                {
+                    "IndividualID": 1437169,
+                    "Name": "Ron Macdonald",
+                    "Organization": {
+                        "OrganizationID": 53151,
+                        "Name": "Pemberton Holmes - Cloverdale",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345775630000000/lowres/53151.jpg",
+                        "Address": {
+                            "AddressText": "150-805 Cloverdale Ave|Victoria, British Columbia V8X2S9",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "384-8124",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "665-5303",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "380-6355",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609584"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.pembertonholmes.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53151/pemberton-holmes-cloverdale-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9",
+                        "PhotoLastupdate": "2020-09-01 5:19:23 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "384-8124",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453765380"
+                        }
+                    ],
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Ron",
+                    "LastName": "Macdonald",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1437169/ron-macdonald-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9"
+                }
+            ],
+            "Property": {
+                "Price": "$259,750",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "313 1009 McKenzie Ave|Saanich, British Columbia V8X4B1",
+                    "Longitude": "-123.366849",
+                    "Latitude": "48.469132",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637315313253000000/reb3/highres/5/844985_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637315313253000000/reb3/medres/5/844985_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637315313253000000/reb3/lowres/5/844985_1.jpg",
+                        "LastUpdated": "2020-07-28 11:08:45 AM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$259,750 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "595 sqft"
+            },
+            "AlternateURL": {
+                "VideoLink": "https://my.matterport.com/show/?m=AFfLAkEu4qU"
+            },
+            "PostalCode": "V8X4B1",
+            "RelativeDetailsURL": "/real-estate/22117340/313-1009-mckenzie-ave-saanich-quadra",
+            "StatusId": "1",
+            "PriceChangeDateUTC": "2020-08-06 9:05:09 PM",
+            "PhotoChangeDateUTC": "2020-07-28 3:08:47 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22117340/313-1009-mckenzie-ave-saanich-quadra",
+            "RelativeURLFr": "/immobilier/22117340/313-1009-mckenzie-ave-saanich"
+        },
+        {
+            "Id": "22268100",
+            "MlsNumber": "853734",
+            "PublicRemarks": "Come see this spacious 1 bedroom unit on the quiet side of the building, move in ready! Stylishly updated with laminate and tile floors, dishwasher, electric fireplace, modern lighting and thoughtful storage solutions.  The large living space is full of natural light from the private east facing balcony. This convenient location is a short walk to the ocean, Songhees walkway, Saxe Point, Esquimalt Rec Center and shopping centers like Westside Village or Esquimalt Plaza. Also its on major bus routes and only minutes to Downtown. Parking and separate storage is available and there\u0092s plenty of visitor parking. Strata fees include heat and hot water! This well run building also includes a hospitality room with a lounge, pool table and dart board, perfect when wanting to stay closer to home. Call today to book a viewing. Virtual Tour & Floor Plans Available. (23121834)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "778 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1739550,
+                    "Name": "Tara Lynn",
+                    "Organization": {
+                        "OrganizationID": 53073,
+                        "Name": "Royal LePage Coast Capital - Oak Bay",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345770850000000/lowres/1006608.jpg",
+                        "Address": {
+                            "AddressText": "2541 Estevan Avenue|V8R 2S6|Victoria, British Columbia V8R2S6",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "592-4422",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "263-4753",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "592-6600",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609922"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.rlpvictoria.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53073/royal-lepage-coast-capital-oak-bay-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                        "PhotoLastupdate": "2020-09-01 5:11:25 PM"
+                    },
+                    "Websites": [
+                        {
+                            "Website": "http://www.TaraLynn.ca",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453769017"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636874866600000000/lowres/1178854.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Tara",
+                    "LastName": "Lynn",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1739550/tara-lynn-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                    "AgentPhotoLastUpdated": "2019-03-06 16:31:00"
+                }
+            ],
+            "Property": {
+                "Price": "$269,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "12 848 Esquimalt Rd|Esquimalt, British Columbia V9A6W9",
+                    "Longitude": "-123.397722",
+                    "Latitude": "48.432282",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637336981943230000/reb3/highres/4/853734_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637336981943230000/reb3/medres/4/853734_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637336981943230000/reb3/lowres/4/853734_1.jpg",
+                        "LastUpdated": "2020-08-22 1:03:14 PM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Residential",
+                "ConvertedPrice": "$269,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "790 sqft"
+            },
+            "AlternateURL": {
+                "PhotoLink": "https://www.uplist.ca/h/The-Lynn-Team-12-848-Esquimalt-Rd",
+                "VideoLink": "https://my.matterport.com/show/?m=JjhL7qbWwYe"
+            },
+            "PostalCode": "V9A6W9",
+            "RelativeDetailsURL": "/real-estate/22268100/12-848-esquimalt-rd-esquimalt-old-esquimalt",
+            "StatusId": "1",
+            "OpenHouseInsertDateUTC": "2020-08-24 6:40:41 PM",
+            "PhotoChangeDateUTC": "2020-08-22 5:03:14 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22268100/12-848-esquimalt-rd-esquimalt-old-esquimalt",
+            "RelativeURLFr": "/immobilier/22268100/12-848-esquimalt-rd-esquimalt",
+            "ListingTimeZone": "Pacific Standard Time",
+            "ListingBoundary": "America/Vancouver",
+            "ListingGMT": "-08:00:00"
+        },
+        {
+            "Id": "22303243",
+            "MlsNumber": "854059",
+            "PublicRemarks": "Large 1 bedroom corner unit in a great Oaklands location, only steps to the Hillside Mall and all local amenities including restaurants, shopping, groceries and pharmacy. This condo is quiet as it faces the back of the building and is a South/West corner unit for lots of sun during the day and into the evening. Large living room and open kitchen, separate dining area and sunny enclosed balcony for extra bonus living area. Laminate in kitchen and dining area. Spacious bedroom and lots of storage, plus a separate storage locker included. Laundry is shared. Building has a games room, workshop and includes one parking spot above ground. On a bus route and close to UVIC and Camosun. Only 10 minutes to downtown Victoria. 19+ building. No rentals allowed, and one cat or one small dog allowed. Vacant for quick possession. Virtual Tour Available (23157302)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "767 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1437469,
+                    "Name": "Dale Sheppard",
+                    "Organization": {
+                        "OrganizationID": 53095,
+                        "Name": "RE/MAX Camosun",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637353758420000000/lowres/remax3d.gif",
+                        "Address": {
+                            "AddressText": "101-791 Goldstream Ave|Victoria, British Columbia V9B2X5",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "478-9600",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "478-6060",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609878"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.remax-camosun-victoria-bc.com/",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53095/remax-camosun-101-791-goldstream-ave-victoria-british-columbia-v9b2x5",
+                        "PhotoLastupdate": "2020-09-10 11:04:02 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "478-9600",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Fax",
+                            "PhoneNumber": "478-6060",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "4"
+                        },
+                        {
+                            "PhoneType": "Toll Free",
+                            "PhoneNumber": "553-9601",
+                            "AreaCode": "877",
+                            "PhoneTypeId": "5"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.dalesheppard.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453783519"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individuals/lowres/1031236.jpg",
+                    "DesignationText": "CRLTR",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Dale",
+                    "LastName": "Sheppard",
+                    "CccMember": true,
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1437469/dale-sheppard-101-791-goldstream-ave-victoria-british-columbia-v9b2x5"
+                }
+            ],
+            "Property": {
+                "Price": "$279,800",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "202 1525 Hillside Ave|Victoria, British Columbia V8T2C1",
+                    "Longitude": "-123.33840686",
+                    "Latitude": "48.44345721",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637345423603570000/reb3/highres/9/854059_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637345423603570000/reb3/medres/9/854059_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637345423603570000/reb3/lowres/9/854059_1.jpg",
+                        "LastUpdated": "2020-09-01 7:32:40 AM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Residential",
+                "ConvertedPrice": "$279,800 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "767 sqft"
+            },
+            "AlternateURL": {
+                "DetailsLink": "https://youtu.be/iGlHIhULuXA",
+                "PhotoLink": "https://app.standardres.ca/202-1525-hillside-ave/",
+                "VideoLink": "https://app.standardres.ca/202-1525-hillside-ave/admin/#/"
+            },
+            "PostalCode": "V8T2C1",
+            "RelativeDetailsURL": "/real-estate/22303243/202-1525-hillside-ave-victoria-oaklands",
+            "StatusId": "1",
+            "PriceChangeDateUTC": "2020-09-11 3:06:16 AM",
+            "HasPriceUpdate": true,
+            "PhotoChangeDateUTC": "2020-09-01 11:32:40 AM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22303243/202-1525-hillside-ave-victoria-oaklands",
+            "RelativeURLFr": "/immobilier/22303243/202-1525-hillside-ave-victoria"
+        },
+        {
+            "Id": "22346903",
+            "MlsNumber": "855394",
+            "PublicRemarks": "Situated on the quiet side of the building with a large south facing balcony, this one bedroom one bathroom condo is the ideal place to call home for those looking to get into the market or with unrestricted rentals the perfect purchase for investment. This unit has a great layout and features a large bedroom with balcony access, updated flooring, fresh paint, in-suite laundry, secured underground parking and storage. Two cats are okay in this well maintained building conveniently located close to Rutledge Park, shopping, groceries and on a bus route for easy access downtown and university. Call today for your private viewing or virtual 3D tour...don't wait on this one! (23202297)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "700 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1949254,
+                    "Name": "Andrea Prowse",
+                    "Organization": {
+                        "OrganizationID": 53151,
+                        "Name": "Pemberton Holmes - Cloverdale",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637353787660000000/lowres/53151.jpg",
+                        "Address": {
+                            "AddressText": "150-805 Cloverdale Ave|Victoria, British Columbia V8X2S9",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "384-8124",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "665-5303",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "380-6355",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609584"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.pembertonholmes.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53151/pemberton-holmes-cloverdale-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9",
+                        "PhotoLastupdate": "2020-09-10 11:52:46 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "217-3465",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.capitalcitygroup.ca",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453767945"
+                        }
+                    ],
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Andrea",
+                    "LastName": "Prowse",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1949254/andrea-prowse-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9"
+                },
+                {
+                    "IndividualID": 1537081,
+                    "Name": "Joshua Prowse",
+                    "Organization": {
+                        "OrganizationID": 280017,
+                        "Name": "Pemberton Holmes Ltd. - Hillside",
+                        "Address": {
+                            "AddressText": "102A-1644 Hillside Ave|Victoria, British Columbia V8T2C5",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "384-8124",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "940-2826",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609665"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/280017/pemberton-holmes-ltd-hillside-102a-1644-hillside-ave-victoria-british-columbia-v8t2c5",
+                        "PhotoLastupdate": "2020-09-10 11:52:46 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "661-5674",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.joshuaprowse.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453769726"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636372091800000000/lowres/1145155.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Joshua",
+                    "LastName": "Prowse",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1537081/joshua-prowse-102a-1644-hillside-ave-victoria-british-columbia-v8t2c5",
+                    "AgentPhotoLastUpdated": "2017-08-01 18:33:00"
+                }
+            ],
+            "Property": {
+                "Price": "$284,900",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "314 3277 Quadra St|Saanich, British Columbia V8X4W9",
+                    "Longitude": "-123.360603",
+                    "Latitude": "48.450968",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637353637731900000/reb3/highres/4/855394_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637353637731900000/reb3/medres/4/855394_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637353637731900000/reb3/lowres/4/855394_1.jpg",
+                        "LastUpdated": "2020-09-10 7:42:53 PM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$284,900 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "713 sqft"
+            },
+            "AlternateURL": {
+                "PhotoLink": "https://viva.xposureapp.com/XposurePublic/tc7h?pk_campaign=mls",
+                "VideoLink": "https://my.matterport.com/show/?m=fsFuktNLbxz"
+            },
+            "PostalCode": "V8X4W9",
+            "RelativeDetailsURL": "/real-estate/22346903/314-3277-quadra-st-saanich-maplewood",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-09-10 11:42:53 PM",
+            "HasNewImageUpdate": true,
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22346903/314-3277-quadra-st-saanich-maplewood",
+            "RelativeURLFr": "/immobilier/22346903/314-3277-quadra-st-saanich"
+        },
+        {
+            "Id": "22142943",
+            "MlsNumber": "845575",
+            "PublicRemarks": "New a Price!!  Spacious 1bdrm condo in convenient location! RENTABLE UNIT WITH NO AGE RESTRICTIONS! This well-maintained unit features updated bathroom, corner wood fireplace in living room, separate dining area, in-suite laundry, large private deck, BBQ allowed & 1 cat OK.  Close by all amenities including Uptown Mall, Grocery shopping, Movie Theatre, Tilicum Centre, & bus routes! This condo is the perfect home for starting out or to add as a great revenue property. Separate storage, bike storage and parking. Pride of ownership throughout. Call to view! Please COVID protocols in place. (22988518)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "840 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1436939,
+                    "Name": "Cathi Hallock",
+                    "Organization": {
+                        "OrganizationID": 53151,
+                        "Name": "Pemberton Holmes - Cloverdale",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345774910000000/lowres/53151.jpg",
+                        "Address": {
+                            "AddressText": "150-805 Cloverdale Ave|Victoria, British Columbia V8X2S9",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "384-8124",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "665-5303",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "380-6355",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609584"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.pembertonholmes.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53151/pemberton-holmes-cloverdale-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9",
+                        "PhotoLastupdate": "2020-09-01 5:18:11 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "384-8124",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.victoriabchomesandcondos.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "454165775"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636443803200000000/lowres/1114467.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Cathi",
+                    "LastName": "Hallock",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1436939/cathi-hallock-150-805-cloverdale-ave-victoria-british-columbia-v8x2s9",
+                    "AgentPhotoLastUpdated": "2017-10-23 18:32:00"
+                }
+            ],
+            "Property": {
+                "Price": "$288,900",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "103 290 Regina Ave|Saanich, British Columbia V8Z6S6",
+                    "Longitude": "-123.390645",
+                    "Latitude": "48.456911",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637323259019700000/reb3/highres/5/845575_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637323259019700000/reb3/medres/5/845575_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637323259019700000/reb3/lowres/5/845575_1.jpg",
+                        "LastUpdated": "2020-08-06 3:51:41 PM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$288,900 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "840 sqft"
+            },
+            "AlternateURL": {
+                "BrochureLink": "https://www.pembertonholmes.com/listing/Saanich-West-BC/103-290-Regina-Ave/rjnl",
+                "DetailsLink": "https://www.pembertonholmes.com/listing/Saanich-West-BC/103-290-Regina-Ave/rjnl",
+                "VideoLink": "https://my.matterport.com/show/?m=5S1MB8XoNU9"
+            },
+            "PostalCode": "V8Z6S6",
+            "RelativeDetailsURL": "/real-estate/22142943/103-290-regina-ave-saanich-tillicum",
+            "StatusId": "1",
+            "PriceChangeDateUTC": "2020-08-14 3:25:17 PM",
+            "PhotoChangeDateUTC": "2020-08-06 7:51:43 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22142943/103-290-regina-ave-saanich-tillicum",
+            "RelativeURLFr": "/immobilier/22142943/103-290-regina-ave-saanich"
+        },
+        {
+            "Id": "22274492",
+            "MlsNumber": "853842",
+            "PublicRemarks": "Are you looking to make the move into Victoria's real estate market or are you looking to invest in a great rental property? Suite 206 in Christmas Hill Green ticks all the boxes. 1 parking stall is included and there is in-suite laundry! The strata has unrestricted rentals and allows for pets! There are no pet size restrictions! Suite 206 is East-facing which looks towards Christmas Hill.  A bright and inviting living space, the kitchen includes a stainless steel appliance package. Located just off of McKenzie, you have quick access to the Airport, BC Ferries, the Westshore, tons of shopping and amazing restaurants and cafes. Find your new home at Christmas Hill Green. (23128334)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "0",
+                "SizeInterior": "517 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1527328,
+                    "Name": "Tony Zarsadias",
+                    "Organization": {
+                        "OrganizationID": 283638,
+                        "Name": "The Condo Group Real Estate",
+                        "Address": {
+                            "AddressText": "102-3645 Tillicum Rd|Victoria, British Columbia V8Z4H7",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "382-6636",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609644"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/283638/the-condo-group-real-estate-102-3645-tillicum-rd-victoria-british-columbia-v8z4h7",
+                        "PhotoLastupdate": "2020-09-09 11:28:32 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "382-8838",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.thecondogroup.com/",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453783445"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636837690600000000/lowres/1138402.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "DesignationText": "CRLTR",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Tony",
+                    "LastName": "Zarsadias",
+                    "CccMember": true,
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1527328/tony-zarsadias-102-3645-tillicum-rd-victoria-british-columbia-v8z4h7",
+                    "AgentPhotoLastUpdated": "2019-01-22 15:51:00"
+                },
+                {
+                    "IndividualID": 1922221,
+                    "Name": "D. Kevin Jones",
+                    "Organization": {
+                        "OrganizationID": 283638,
+                        "Name": "The Condo Group Real Estate",
+                        "Address": {
+                            "AddressText": "102-3645 Tillicum Rd|Victoria, British Columbia V8Z4H7",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "382-6636",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609644"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/283638/the-condo-group-real-estate-102-3645-tillicum-rd-victoria-british-columbia-v8z4h7",
+                        "PhotoLastupdate": "2020-09-09 11:28:32 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "677-8277",
+                            "AreaCode": "778",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.victoriarealestateexpert.ca",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453768264"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS637172017800000000/lowres/1227448.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "D. Kevin",
+                    "LastName": "Jones",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1922221/d-kevin-jones-102-3645-tillicum-rd-victoria-british-columbia-v8z4h7",
+                    "AgentPhotoLastUpdated": "2020-02-13 14:43:00"
+                }
+            ],
+            "Property": {
+                "Price": "$289,900",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "206 4050 Douglas St|Saanich, British Columbia V8X0A5",
+                    "Longitude": "-123.38106823",
+                    "Latitude": "48.47069683",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637351908509130000/reb3/highres/2/853842_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637351908509130000/reb3/medres/2/853842_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637351908509130000/reb3/lowres/2/853842_1.jpg",
+                        "LastUpdated": "2020-09-08 7:40:50 PM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Open"
+                    }
+                ],
+                "ParkingSpaceTotal": "1",
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Residential",
+                "ConvertedPrice": "$289,900 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "1 sqft"
+            },
+            "AlternateURL": {
+                "VideoLink": "https://my.matterport.com/show/?m=KZabb9kGCTQ"
+            },
+            "PostalCode": "V8X0A5",
+            "RelativeDetailsURL": "/real-estate/22274492/206-4050-douglas-st-saanich-swan-lake",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-09-08 11:40:50 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22274492/206-4050-douglas-st-saanich-swan-lake",
+            "RelativeURLFr": "/immobilier/22274492/206-4050-douglas-st-saanich"
+        },
+        {
+            "Id": "21899127",
+            "MlsNumber": "840381",
+            "PublicRemarks": "**Vacant, quick possession possible!**Experience this 55+ luxury community that affords owners the unique privilege of designing in-house services that cater to your lifestyle & evolve with your needs. Flexibility of independent living or option of \u0091assisted living\u0092 in your very own executive suite. Interior is bright & stylish & flooded with natural light. Desirable open concept showcases modern conveniences & a neutral design aesthetic. Upscale kitchen with plenty of counter & cabinet space. Spacious living rm leads to sun soaked balcony. Inviting bedroom & convenience of in-suite laundry. Amenities include a gym, woodwork shop, media rm, & option of catered meals & housekeeping. A la carte meal service also available. Prime location promotes finest of west coast living with nearby Belmont Market, Westhills Stadium, YMCA, Langford Lake, plenty of walking trails & access to transit. Treat yourself to the pinnacle of resort style living, a welcoming community & new adventures daily. (22739508)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "635 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1738614,
+                    "Name": "Linda Brown",
+                    "Organization": {
+                        "OrganizationID": 53078,
+                        "Name": "RE/MAX Camosun",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345780320000000/lowres/remax3d.gif",
+                        "Address": {
+                            "AddressText": "4440 Chatterton Way|Victoria, British Columbia V8X5J2",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "744-3301",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "663-2121",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "744-3904",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "455194808"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.remax-camosun-victoria-bc.com/",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53078/remax-camosun-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                        "PhotoLastupdate": "2020-09-01 5:27:12 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "213-7194",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.lindabrown.ca",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453769039"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636512052600000000/lowres/1178447.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Linda",
+                    "LastName": "Brown",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1738614/linda-brown-4440-chatterton-way-victoria-british-columbia-v8x5j2",
+                    "AgentPhotoLastUpdated": "2018-01-10 18:21:00"
+                }
+            ],
+            "Property": {
+                "Price": "$289,900",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "302 917 Avrill Rd|Langford, British Columbia V9B6B1",
+                    "Longitude": "-123.512691",
+                    "Latitude": "48.440359",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637315295250000000/reb3/highres/1/840381_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637315295250000000/reb3/medres/1/840381_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637315295250000000/reb3/lowres/1/840381_1.jpg",
+                        "LastUpdated": "2020-07-28 10:38:45 AM"
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Name": "Underground"
+                    }
+                ],
+                "ParkingSpaceTotal": "1",
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$289,900 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "436 sqft"
+            },
+            "PostalCode": "V9B6B1",
+            "RelativeDetailsURL": "/real-estate/21899127/302-917-avrill-rd-langford-glen-lake",
+            "StatusId": "1",
+            "PriceChangeDateUTC": "2020-08-04 8:25:45 PM",
+            "PhotoChangeDateUTC": "2020-07-28 2:38:46 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/21899127/302-917-avrill-rd-langford-glen-lake",
+            "RelativeURLFr": "/immobilier/21899127/302-917-avrill-rd-langford"
+        },
+        {
+            "Id": "22213588",
+            "MlsNumber": "851276",
+            "PublicRemarks": "Great location next to the Gorge. Steps away from the Galloping Goose trail & all amenities, perfect for walking or riding into downtown Victoria. This bright one bedroom condo is ready for occupancy, bamboo flooring throughout the principle areas, brand new carpet in the bedroom, & freshly painted throughout. Your spacious living & dining room are perfect for entertaining & sliding doors off the living lead to the sunny SW facing deck, great for BBQ's. Good storage in the master bedroom which also offers sliders onto the balcony. The building provides a billiard room, workshop, bike storage, guest room & laundry and has also undergone many updates; windows, siding, the balconies with glass railings and an upgrade to all the fire alarm systems is currently underway. Reasonable strata fees also include hot water heat. And, while your location means you don't need to own a car, 1 parking space is included & rental of a 2nd space is an option.  All in all a perfect spot to call home! (23064864)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "631 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1436796,
+                    "Name": "Karen Dinnie-Smyth",
+                    "Organization": {
+                        "OrganizationID": 53067,
+                        "Name": "RE/MAX Camosun",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345773450000000/lowres/remax3d.gif",
+                        "Address": {
+                            "AddressText": "14-2510 Bevan Ave|Sidney, British Columbia V8L1W3",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "655-0608",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "730-0608",
+                                "AreaCode": "877",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "655-0618",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609935"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.remax-camosun-victoria-bc.com/",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53067/remax-camosun-14-2510-bevan-ave-sidney-british-columbia-v8l1w3",
+                        "PhotoLastupdate": "2020-09-01 5:15:45 PM"
+                    },
+                    "Websites": [
+                        {
+                            "Website": "http://www.karendinnie-smyth.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "454018502"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636075835800000000/lowres/1031156.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Karen",
+                    "LastName": "Dinnie-Smyth",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1436796/karen-dinnie-smyth-14-2510-bevan-ave-sidney-british-columbia-v8l1w3",
+                    "AgentPhotoLastUpdated": "2016-08-23 21:13:00"
+                }
+            ],
+            "Property": {
+                "Price": "$298,900",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "236 2930 Washington Ave|Victoria, British Columbia V9A1P5",
+                    "Longitude": "-123.38307633",
+                    "Latitude": "48.44193834",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637326660316370000/reb3/highres/6/851276_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637326660316370000/reb3/medres/6/851276_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637326660316370000/reb3/lowres/6/851276_1.jpg",
+                        "LastUpdated": "2020-08-10 2:20:31 PM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$298,900 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "691 sqft"
+            },
+            "AlternateURL": {
+                "VideoLink": "https://my.matterport.com/show/?m=9kh5XcBXfqZ"
+            },
+            "PostalCode": "V9A1P5",
+            "RelativeDetailsURL": "/real-estate/22213588/236-2930-washington-ave-victoria-burnside",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-08-10 6:20:35 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22213588/236-2930-washington-ave-victoria-burnside",
+            "RelativeURLFr": "/immobilier/22213588/236-2930-washington-ave-victoria"
+        },
+        {
+            "Id": "22321894",
+            "MlsNumber": "851045",
+            "PublicRemarks": "This Beautiful 2 bedroom ground level, no-step-entry condo, in a peaceful, bucolic location, is more garden suite than condo! Outside the door, and all the windows, are shade trees and inviting lawns! Features include; a spacious living room with maple floors & large picture window looking onto trees and grass; 2010 vinyl windows; stacked washer & dryer; 2 bedrooms with green views; and a large utility room. The large kitchen offers: designer cabinetry, tiled counter tops, decorator back-splash, ceramic tile floors & SS flat-top stove, DW, & fridge; Outside features include; ample resident & visitor parking; gardening space; & central community courtyard. Near the heart of Langford village this small strata is tucked away on a quiet cul de sac alongside the E & N Rail Trail; an inviting bike & walking route easily accessed by a private gate that connects you to Langford City Center, The Galloping Goose Trail, Mill Hill, Thetis Lake, and beyond. Families & Pets welcome! (23172939)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "2",
+                "SizeInterior": "836 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1460820,
+                    "Name": "Rosemarie Colterman",
+                    "Organization": {
+                        "OrganizationID": 53073,
+                        "Name": "Royal LePage Coast Capital - Oak Bay",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637348243840000000/lowres/1006608.jpg",
+                        "Address": {
+                            "AddressText": "2541 Estevan Avenue|V8R 2S6|Victoria, British Columbia V8R2S6",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "592-4422",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "263-4753",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "592-6600",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609922"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.rlpvictoria.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53073/royal-lepage-coast-capital-oak-bay-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                        "PhotoLastupdate": "2020-09-04 1:53:04 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "592-4422",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        },
+                        {
+                            "PhoneType": "Toll Free",
+                            "CountryCode": "1",
+                            "PhoneNumber": "263-4753",
+                            "AreaCode": "800",
+                            "PhoneTypeId": "5"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.homewardbound.team",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453770017"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636717702000000000/lowres/1123980.jpg",
+                    "Position": "Personal Real Estate Corporation",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Rosemarie",
+                    "LastName": "Colterman",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1460820/rosemarie-colterman-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                    "AgentPhotoLastUpdated": "2018-09-05 18:50:00"
+                },
+                {
+                    "IndividualID": 1980259,
+                    "Name": "Tom Oak",
+                    "Organization": {
+                        "OrganizationID": 53073,
+                        "Name": "Royal LePage Coast Capital - Oak Bay",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637348243840000000/lowres/1006608.jpg",
+                        "Address": {
+                            "AddressText": "2541 Estevan Avenue|V8R 2S6|Victoria, British Columbia V8R2S6",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "592-4422",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Toll Free",
+                                "PhoneNumber": "263-4753",
+                                "AreaCode": "800",
+                                "PhoneTypeId": "5"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "592-6600",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609922"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.rlpvictoria.com",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53073/royal-lepage-coast-capital-oak-bay-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                        "PhotoLastupdate": "2020-09-04 1:53:04 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "858-1502",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://homewardbound.team",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453767650"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individual/TS636717702000000000/lowres/1266035.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Tom",
+                    "LastName": "Oak",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1980259/tom-oak-2541-estevan-avenue-v8r-2s6-victoria-british-columbia-v8r2s6",
+                    "AgentPhotoLastUpdated": "2018-09-05 18:50:00"
+                }
+            ],
+            "Property": {
+                "Price": "$299,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "101 636 Granderson Rd|Langford, British Columbia V9B2R8",
+                    "Longitude": "-123.49050076",
+                    "Latitude": "48.44786251",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637348243841100000/reb3/highres/5/851045_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637348243841100000/reb3/medres/5/851045_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637348243841100000/reb3/lowres/5/851045_1.jpg",
+                        "LastUpdated": "2020-09-04 1:53:04 PM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$299,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "836 sqft"
+            },
+            "PostalCode": "V9B2R8",
+            "RelativeDetailsURL": "/real-estate/22321894/101-636-granderson-rd-langford-fairway",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-09-04 5:53:04 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22321894/101-636-granderson-rd-langford-fairway",
+            "RelativeURLFr": "/immobilier/22321894/101-636-granderson-rd-langford"
+        },
+        {
+            "Id": "22102064",
+            "MlsNumber": "844614",
+            "PublicRemarks": "Almost new Immaculate One Bedroom One bath 600+ sqft suite at Cherish at Central Park.  This fabulous building provides a community with people aged 55 + where everyone is provided the opportunity to do what they can and participate, as little or as much as they like. Strata/Amenity Fee gives you access to the many amenities in the building including Theater, Games Room, Gym, Bistro, Morning and Afternoon coffee/tea and pastries, Bistro, Bus trips/tours and parking.  Optional meals for a cost and life style packages available also.  Suite offers a large master bedroom, full kitchen including dishwasher, laundry room with stacking washer/dryer, Bathroom with walk in shower and a balcony.  Great location near the new Belmont Market and Westshore town center.  Enjoy living in a wonderful community while still having the independence of your own suite.  Call now to book your private viewing of this unit and tour the building! (22946678)",
+            "Building": {
+                "BathroomTotal": "1",
+                "Bedrooms": "1",
+                "SizeInterior": "638 sqft",
+                "Type": "Apartment"
+            },
+            "Individual": [
+                {
+                    "IndividualID": 1528610,
+                    "Name": "Shanna Vargas",
+                    "Organization": {
+                        "OrganizationID": 53095,
+                        "Name": "RE/MAX Camosun",
+                        "Logo": "https://cdn.realtor.ca/organization/en-CA/TS637345776190000000/lowres/remax3d.gif",
+                        "Address": {
+                            "AddressText": "101-791 Goldstream Ave|Victoria, British Columbia V9B2X5",
+                            "PermitShowAddress": false
+                        },
+                        "Phones": [
+                            {
+                                "PhoneType": "Telephone",
+                                "PhoneNumber": "478-9600",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "1"
+                            },
+                            {
+                                "PhoneType": "Fax",
+                                "PhoneNumber": "478-6060",
+                                "AreaCode": "250",
+                                "PhoneTypeId": "4"
+                            }
+                        ],
+                        "Emails": [
+                            {
+                                "ContactId": "454609878"
+                            }
+                        ],
+                        "Websites": [
+                            {
+                                "Website": "http://www.remax-camosun-victoria-bc.com/",
+                                "WebsiteTypeId": "1"
+                            }
+                        ],
+                        "OrganizationType": "Firm",
+                        "HasEmail": true,
+                        "PermitFreetextEmail": true,
+                        "PermitShowListingLink": true,
+                        "RelativeDetailsURL": "/office/firm/53095/remax-camosun-101-791-goldstream-ave-victoria-british-columbia-v9b2x5",
+                        "PhotoLastupdate": "2020-09-01 5:20:19 PM"
+                    },
+                    "Phones": [
+                        {
+                            "PhoneType": "Telephone",
+                            "PhoneNumber": "744-3301",
+                            "AreaCode": "250",
+                            "PhoneTypeId": "1"
+                        }
+                    ],
+                    "Websites": [
+                        {
+                            "Website": "http://www.shannavargas.com",
+                            "WebsiteTypeId": "1"
+                        }
+                    ],
+                    "Emails": [
+                        {
+                            "ContactId": "453769817"
+                        }
+                    ],
+                    "Photo": "https://cdn.realtor.ca/individuals/lowres/1140410.jpg",
+                    "PermitFreetextEmail": true,
+                    "FirstName": "Shanna",
+                    "LastName": "Vargas",
+                    "CorporationDisplayTypeId": "0",
+                    "PermitShowListingLink": true,
+                    "RelativeDetailsURL": "/agent/1528610/shanna-vargas-101-791-goldstream-ave-victoria-british-columbia-v9b2x5"
+                }
+            ],
+            "Property": {
+                "Price": "$300,000",
+                "Type": "Single Family",
+                "Address": {
+                    "AddressText": "404 917 Avrill Rd|Langford, British Columbia V9B0T2",
+                    "Longitude": "-123.512623",
+                    "Latitude": "48.440085",
+                    "PermitShowAddress": true
+                },
+                "Photo": [
+                    {
+                        "SequenceId": "1",
+                        "HighResPath": "https://cdn.realtor.ca/listings/TS637315310913700000/reb3/highres/4/844614_1.jpg",
+                        "MedResPath": "https://cdn.realtor.ca/listings/TS637315310913700000/reb3/medres/4/844614_1.jpg",
+                        "LowResPath": "https://cdn.realtor.ca/listings/TS637315310913700000/reb3/lowres/4/844614_1.jpg",
+                        "LastUpdated": "2020-07-28 11:04:51 AM"
+                    }
+                ],
+                "TypeId": "300",
+                "OwnershipType": "Strata",
+                "ZoningType": "Multi-Family",
+                "ConvertedPrice": "$300,000 ",
+                "OwnershipTypeGroupIds": [
+                    2
+                ]
+            },
+            "Business": {},
+            "Land": {
+                "SizeTotal": "637 sqft"
+            },
+            "PostalCode": "V9B0T2",
+            "RelativeDetailsURL": "/real-estate/22102064/404-917-avrill-rd-langford-glen-lake",
+            "StatusId": "1",
+            "PhotoChangeDateUTC": "2020-07-28 3:04:52 PM",
+            "Distance": "",
+            "RelativeURLEn": "/real-estate/22102064/404-917-avrill-rd-langford-glen-lake",
+            "RelativeURLFr": "/immobilier/22102064/404-917-avrill-rd-langford"
+        }
+    ],
+    "Pins": [
+        {
+            "key": "L10|48.424|-123.36",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.36",
+            "latitude": "48.424"
+        },
+        {
+            "key": "L10|48.426|-123.348",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.348",
+            "latitude": "48.426"
+        },
+        {
+            "key": "L10|48.426|-123.354",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.354",
+            "latitude": "48.426"
+        },
+        {
+            "key": "L10|48.426|-123.356",
+            "propertyId": "",
+            "count": 5,
+            "longitude": "-123.356",
+            "latitude": "48.426"
+        },
+        {
+            "key": "L10|48.426|-123.358",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.358",
+            "latitude": "48.426"
+        },
+        {
+            "key": "L10|48.426|-123.36",
+            "propertyId": "",
+            "count": 3,
+            "longitude": "-123.36",
+            "latitude": "48.426"
+        },
+        {
+            "key": "L10|48.428|-123.332",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.332",
+            "latitude": "48.428"
+        },
+        {
+            "key": "L10|48.428|-123.338",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.338",
+            "latitude": "48.428"
+        },
+        {
+            "key": "L10|48.428|-123.36",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.36",
+            "latitude": "48.428"
+        },
+        {
+            "key": "L10|48.428|-123.37",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.37",
+            "latitude": "48.428"
+        },
+        {
+            "key": "L10|48.43|-123.36",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.36",
+            "latitude": "48.43"
+        },
+        {
+            "key": "L10|48.43|-123.402",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.402",
+            "latitude": "48.43"
+        },
+        {
+            "key": "L10|48.43|-123.404",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.404",
+            "latitude": "48.43"
+        },
+        {
+            "key": "L10|48.43|-123.408",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.408",
+            "latitude": "48.43"
+        },
+        {
+            "key": "L10|48.43|-123.416",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.416",
+            "latitude": "48.43"
+        },
+        {
+            "key": "L10|48.432|-123.358",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.358",
+            "latitude": "48.432"
+        },
+        {
+            "key": "L10|48.432|-123.396",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.396",
+            "latitude": "48.432"
+        },
+        {
+            "key": "L10|48.432|-123.398",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.398",
+            "latitude": "48.432"
+        },
+        {
+            "key": "L10|48.432|-123.416",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.416",
+            "latitude": "48.432"
+        },
+        {
+            "key": "L10|48.432|-123.516",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.516",
+            "latitude": "48.432"
+        },
+        {
+            "key": "L10|48.432|-123.522",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.522",
+            "latitude": "48.432"
+        },
+        {
+            "key": "L10|48.434|-123.348",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.348",
+            "latitude": "48.434"
+        },
+        {
+            "key": "L10|48.436|-123.358",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.358",
+            "latitude": "48.436"
+        },
+        {
+            "key": "L10|48.436|-123.36",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.36",
+            "latitude": "48.436"
+        },
+        {
+            "key": "L10|48.436|-123.366",
+            "propertyId": "",
+            "count": 5,
+            "longitude": "-123.366",
+            "latitude": "48.436"
+        },
+        {
+            "key": "L10|48.436|-123.382",
+            "propertyId": "",
+            "count": 3,
+            "longitude": "-123.382",
+            "latitude": "48.436"
+        },
+        {
+            "key": "L10|48.436|-123.49",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.49",
+            "latitude": "48.436"
+        },
+        {
+            "key": "L10|48.436|-123.51",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.51",
+            "latitude": "48.436"
+        },
+        {
+            "key": "L10|48.436|-123.512",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.512",
+            "latitude": "48.436"
+        },
+        {
+            "key": "L10|48.438|-123.462",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.462",
+            "latitude": "48.438"
+        },
+        {
+            "key": "L10|48.438|-123.51",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.51",
+            "latitude": "48.438"
+        },
+        {
+            "key": "L10|48.44|-123.354",
+            "propertyId": "",
+            "count": 3,
+            "longitude": "-123.354",
+            "latitude": "48.44"
+        },
+        {
+            "key": "L10|48.44|-123.36",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.36",
+            "latitude": "48.44"
+        },
+        {
+            "key": "L10|48.44|-123.512",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.512",
+            "latitude": "48.44"
+        },
+        {
+            "key": "L10|48.442|-123.348",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.348",
+            "latitude": "48.442"
+        },
+        {
+            "key": "L10|48.442|-123.36",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.36",
+            "latitude": "48.442"
+        },
+        {
+            "key": "L10|48.442|-123.374",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.374",
+            "latitude": "48.442"
+        },
+        {
+            "key": "L10|48.442|-123.376",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.376",
+            "latitude": "48.442"
+        },
+        {
+            "key": "L10|48.442|-123.382",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.382",
+            "latitude": "48.442"
+        },
+        {
+            "key": "L10|48.442|-123.386",
+            "propertyId": "",
+            "count": 3,
+            "longitude": "-123.386",
+            "latitude": "48.442"
+        },
+        {
+            "key": "L10|48.442|-123.402",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.402",
+            "latitude": "48.442"
+        },
+        {
+            "key": "L10|48.444|-123.338",
+            "propertyId": "",
+            "count": 3,
+            "longitude": "-123.338",
+            "latitude": "48.444"
+        },
+        {
+            "key": "L10|48.444|-123.382",
+            "propertyId": "",
+            "count": 3,
+            "longitude": "-123.382",
+            "latitude": "48.444"
+        },
+        {
+            "key": "L10|48.444|-123.39",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.39",
+            "latitude": "48.444"
+        },
+        {
+            "key": "L10|48.444|-123.512",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.512",
+            "latitude": "48.444"
+        },
+        {
+            "key": "L10|48.446|-123.426",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.426",
+            "latitude": "48.446"
+        },
+        {
+            "key": "L10|48.446|-123.496",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.496",
+            "latitude": "48.446"
+        },
+        {
+            "key": "L10|48.448|-123.334",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.334",
+            "latitude": "48.448"
+        },
+        {
+            "key": "L10|48.448|-123.366",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.366",
+            "latitude": "48.448"
+        },
+        {
+            "key": "L10|48.448|-123.38",
+            "propertyId": "",
+            "count": 4,
+            "longitude": "-123.38",
+            "latitude": "48.448"
+        },
+        {
+            "key": "L10|48.448|-123.382",
+            "propertyId": "",
+            "count": 3,
+            "longitude": "-123.382",
+            "latitude": "48.448"
+        },
+        {
+            "key": "L10|48.448|-123.428",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.428",
+            "latitude": "48.448"
+        },
+        {
+            "key": "L10|48.448|-123.49",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.49",
+            "latitude": "48.448"
+        },
+        {
+            "key": "L10|48.448|-123.494",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.494",
+            "latitude": "48.448"
+        },
+        {
+            "key": "L10|48.448|-123.506",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.506",
+            "latitude": "48.448"
+        },
+        {
+            "key": "L10|48.45|-123.36",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.36",
+            "latitude": "48.45"
+        },
+        {
+            "key": "L10|48.45|-123.362",
+            "propertyId": "",
+            "count": 3,
+            "longitude": "-123.362",
+            "latitude": "48.45"
+        },
+        {
+            "key": "L10|48.45|-123.364",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.364",
+            "latitude": "48.45"
+        },
+        {
+            "key": "L10|48.45|-123.366",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.366",
+            "latitude": "48.45"
+        },
+        {
+            "key": "L10|48.45|-123.368",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.368",
+            "latitude": "48.45"
+        },
+        {
+            "key": "L10|48.45|-123.494",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.494",
+            "latitude": "48.45"
+        },
+        {
+            "key": "L10|48.452|-123.362",
+            "propertyId": "",
+            "count": 3,
+            "longitude": "-123.362",
+            "latitude": "48.452"
+        },
+        {
+            "key": "L10|48.452|-123.388",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.388",
+            "latitude": "48.452"
+        },
+        {
+            "key": "L10|48.454|-123.362",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.362",
+            "latitude": "48.454"
+        },
+        {
+            "key": "L10|48.454|-123.498",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.498",
+            "latitude": "48.454"
+        },
+        {
+            "key": "L10|48.454|-123.5",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.5",
+            "latitude": "48.454"
+        },
+        {
+            "key": "L10|48.456|-123.39",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.39",
+            "latitude": "48.456"
+        },
+        {
+            "key": "L10|48.456|-123.392",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.392",
+            "latitude": "48.456"
+        },
+        {
+            "key": "L10|48.456|-123.394",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.394",
+            "latitude": "48.456"
+        },
+        {
+            "key": "L10|48.456|-123.44",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.44",
+            "latitude": "48.456"
+        },
+        {
+            "key": "L10|48.456|-123.506",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.506",
+            "latitude": "48.456"
+        },
+        {
+            "key": "L10|48.46|-123.338",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.338",
+            "latitude": "48.46"
+        },
+        {
+            "key": "L10|48.46|-123.36",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.36",
+            "latitude": "48.46"
+        },
+        {
+            "key": "L10|48.46|-123.362",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.362",
+            "latitude": "48.46"
+        },
+        {
+            "key": "L10|48.462|-123.364",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.364",
+            "latitude": "48.462"
+        },
+        {
+            "key": "L10|48.466|-123.334",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.334",
+            "latitude": "48.466"
+        },
+        {
+            "key": "L10|48.466|-123.338",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.338",
+            "latitude": "48.466"
+        },
+        {
+            "key": "L10|48.468|-123.332",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.332",
+            "latitude": "48.468"
+        },
+        {
+            "key": "L10|48.468|-123.336",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.336",
+            "latitude": "48.468"
+        },
+        {
+            "key": "L10|48.468|-123.338",
+            "propertyId": "",
+            "count": 2,
+            "longitude": "-123.338",
+            "latitude": "48.468"
+        },
+        {
+            "key": "L10|48.47|-123.366",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.366",
+            "latitude": "48.47"
+        },
+        {
+            "key": "L10|48.47|-123.368",
+            "propertyId": "",
+            "count": 4,
+            "longitude": "-123.368",
+            "latitude": "48.47"
+        },
+        {
+            "key": "L10|48.47|-123.382",
+            "propertyId": "",
+            "count": 5,
+            "longitude": "-123.382",
+            "latitude": "48.47"
+        },
+        {
+            "key": "L10|48.472|-123.368",
+            "propertyId": "",
+            "count": 1,
+            "longitude": "-123.368",
+            "latitude": "48.472"
+        }
+    ],
+    "GroupingLevel": "10"
+}
